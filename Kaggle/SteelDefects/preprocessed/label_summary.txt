@@ -1,0 +1,28 @@
+Average for 1 files: 99.72878173828126
+Average for 10 files: 92.79765380859375
+Average for 100 files: 88.24244714355468
+Average for 1000 files: 88.98551909912109
+
+* Summary of the defects in train set:
+[[        1      3146   3912129]
+ [        2       347    834471]
+ [        3     17657 131306899]
+ [        4      1967  27533572]]
+3.18% of the whole area.
+
+
+6666 files with labels.
+
+
+897 files with class 1 labels.
+
+
+247 files with class 2 labels.
+
+
+5150 files with class 3 labels.
+
+
+801 files with class 4 labels.
+
+ There are 23117 masks.

@@ -1,0 +1,10 @@
+. Focus on single class training.
+. Split class 3 into subclasses with 5,6,7,8. By creating small pictures with nameing XX_Index_ImageId.jpg
+. Redo split files into classes so sample could be used nested.
++ After each training, automatically test its score, true masked, pred masked, their intersection;
+. We may focus on Tvervosky loss
++ Try make the resnet34 trainable
+. Train only on labeled samples or true samples if possible, together with inter verify such as class 4 with the similar in class 3
+. For class 4, 6, try image augmentation by ratating, resizing
+. For class 5, try image augmentaion by flipping.
++ Train on full size image.
